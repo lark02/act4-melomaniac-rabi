@@ -22,8 +22,8 @@
                         <li class="nav-item"><a class="nav-link text-light" href="song1.php">Song 1</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="song2.php">Song 2</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="song3.php">Song 3</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 4</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 5</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song4.php">Song 4</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song5.php">Song 5</a></li>
                     </ul>
                 </div>
             </div>
@@ -49,7 +49,7 @@
                         <p class="lead">Jimmy Bondoc</p>
                         <h2 class="text-primary">Closer You And I</h2>
                         <p class="lead">Gino Padilla</p>
-                        <h2 class="text-primary">Someone Who Believes In You</h2>
+                        <h2 class="text-primary">I Can't Let Go </h2>
                         <p class="lead">Air Supply</p>
                        
                     </div>
