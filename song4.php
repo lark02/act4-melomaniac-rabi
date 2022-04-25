@@ -12,23 +12,23 @@
     </head>
     <body id="page-top">
         <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="mainNav">
+        <nav class="navbar navbar-expand-lg navbar-light bg-warning fixed-top" id="mainNav">
             <div class="container px-4">
                 <a class="navbar-brand" href="#page-top"> FavSong List </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link text-light" href="song1.php">Song 1</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song2.php">Song 2</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song3.php">Song 3</a></li>
-                         <li class="nav-item"><a class="nav-link text-light" href="song4.php">Song 4</a></li>
-                          <li class="nav-item"><a class="nav-link text-light" href="song5.php">Song 5</a></li>
+                        <li class="nav-item"><a class="nav-link text-dark" href="song1.php">Song 1</a></li>
+                        <li class="nav-item"><a class="nav-link text-dark" href="song2.php">Song 2</a></li>
+                        <li class="nav-item"><a class="nav-link text-dark" href="song3.php">Song 3</a></li>
+                         <li class="nav-item"><a class="nav-link text-dark" href="song4.php">Song 4</a></li>
+                          <li class="nav-item"><a class="nav-link text-dark" href="song5.php">Song 5</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
         <!-- Header-->
-        <header class="bg-dark bg-gradient text-white">
+        <header class="bg-dark bg-gradient text-warning">
             <div class="container px-4 text-center">
                 <h1 class="fw-bolder">Welcome to FavSong List</h1>
                 <p class="lead">Songs that reminisce your life.  </p>
@@ -43,7 +43,7 @@
                         
                         <?php
 
-                        echo "<h2 class='text-primary'>Closer You And I</h2>";
+                        echo "<h2 class='text-success'>Closer You And I</h2>";
                         echo "<p class='lead '>Gino Padilla</p>";
                 
                         echo "<p>.....C..........Em7.............Am...</p>";
@@ -147,8 +147,8 @@
             </div>
         </section>
 
-        <footer class="py-4 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Lark Louie Rabi</p></div>
+        <footer class="py-4 bg-light">
+            <div class="container px-4"><p class="m-0 text-center text-dark">Copyright &copy; 2022. Lark Louie Rabi</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
